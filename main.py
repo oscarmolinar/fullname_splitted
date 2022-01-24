@@ -14,5 +14,4 @@ else:
     firstname = ""
     lastname = ""
 
-
 output = [{ "firstname": firstname, "lastname": lastname }]
