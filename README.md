@@ -1,4 +1,4 @@
-# fullname_splitted
+# Separando Nombre y Apellidos
 
 Script Python para separar los nombres y apellidos. Generalmente utilizado en zapier.
 
