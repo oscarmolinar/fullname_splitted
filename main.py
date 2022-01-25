@@ -1,7 +1,8 @@
+firstname = ""
+lastname = ""
+
 if "fullname" in input:
     fullname = input["fullname"]
-    firstname = ""
-    lastname = ""
     fullname_splitted = fullname.split(" ")
 
     if len(fullname_splitted) > 1:
